@@ -1,0 +1,25 @@
+{
+  "name": "nested-loop",
+  "version": "0.0.1",
+  "description": "This repository contains module to execute nested loops.",
+  "main": "lib/nested.loop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitThakkar/Nested-Loop.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "nested-loop",
+    "for"
+  ],
+  "author": "AmitThakkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmitThakkar/Nested-Loop/issues"
+  },
+  "homepage": "https://github.com/AmitThakkar/Nested-Loop#readme"
+}
